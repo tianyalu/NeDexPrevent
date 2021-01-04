@@ -131,6 +131,6 @@ public abatract class ProxyApplication extends Application {
 
 ![image](https://github.com/tianyalu/NeDexPrevent/raw/master/show/shell_launch_process.png)
 
-#### `DEX`加固效果
+### 3.3 `DEX`加固效果
 
 ![image](https://github.com/tianyalu/NeDexPrevent/raw/master/show/dex_result.png)
